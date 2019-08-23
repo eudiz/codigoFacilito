@@ -6,4 +6,4 @@ git config --global color.ui true
 
 para ver lsiotado de la configuracion personal
 
-git config --global --list
+git config --global --list 222
