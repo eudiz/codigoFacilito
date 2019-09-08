@@ -1,9 +1,0 @@
-configuracion personal
-
-git config --global user.name "Luis"
-git config --global user.email "luishuamanie@bcp.com.pe"
-git config --global color.ui true
-
-para ver lsiotado de la configuracion personal
-
-git config --global --list 222
